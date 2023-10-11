@@ -31,7 +31,8 @@ justify-content:flex-end;
 padding-right: 1rem;
 padding-bottom: 1rem;
 padding-top:1rem;
-color: white;
+color: rgb(255, 255, 255);
+z-index: 100px;
 }
 .heading{
 color: white;
@@ -40,4 +41,12 @@ color: white;
 
 .sticky-pos > li {
 margin-left:1rem;
+}
+
+.goo-wrapper .side-nav{
+
+}
+
+.logo { 
+ max-width: 10px;
 }
