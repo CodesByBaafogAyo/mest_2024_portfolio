@@ -7,6 +7,7 @@
     height: 2775px;
     position: relative;
     overflow: hidden;
+    color: #ffffff;
    }
 
 .frame-26 {
@@ -471,8 +472,34 @@
     left: 694px;
    top: 120px;
     display: flex;
-   align-items: center;
-   justify-content: flex-start}
+    flex-direction: column;
+   justify-content: flex-start;
+   
+}
+   
+   
+   .about-me-description {
+      font: 20 22px/150% 'Sen', sans-serif;
+      color: #939BA5;
+      padding-right: 5rem;
+   
+   
+   }
+
+   .about-me-description-cta{
+      color: #C94679;
+      
+   }
+   /* .about-me {
+      color: #ffffff;
+       text-align: left;
+       font: 700 55px/150% 'Sen', sans-serif;
+       position: absolute;
+       left: 694px;
+      top: 120px;
+       display: flex;
+      align-items: center;
+      justify-content: flex-start} */
 
 .group-40 {
    width: 557px;
