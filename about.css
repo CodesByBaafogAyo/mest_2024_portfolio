@@ -1,0 +1,716 @@
+.about, .about * {
+    box-sizing: border-box;
+    }
+.about {
+   background: var(--black, #000000);
+    width: 1440px;
+    height: 2775px;
+    position: relative;
+    overflow: hidden;
+    color: #ffffff;
+   }
+
+.frame-26 {
+   width: 1440px;
+    height: 1329px;
+    position: absolute;
+    left: calc(50% - 720px);
+   top: 1008px;
+   }
+
+.group-43 {
+   position: absolute;
+    inset: 0;
+   }
+
+.frame-21 {
+   width: 1023px;
+    height: 166px;
+    position: absolute;
+    left: 72px;
+   top: 120px;
+   }
+
+.group-23 {
+   position: absolute;
+    inset: 0;
+   }
+
+.here-are-a-few-lines-from-people-who-i-have-worked-with-over-the-past-couple-of-years-in-my-career-as-product-designer {
+   color: var(--colors-background-grey-50, #939ba5);
+    text-align: left;
+    font: 400 18px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 99px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.this-is-what-people-say-about-me {
+   color: #ffffff;
+    text-align: left;
+    font: 700 55px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.group-17 {
+   width: 370.61px;
+    height: 24px;
+    position: static;
+   }
+
+.see-all-testimonials {
+   color: var(--colors-primary-wine-25, #edc1d2);
+    text-align: left;
+    font: 700 16px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 142px;
+    width: 370.61px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.line-2 {
+   border-style: solid;
+    border-color: var(--colors-primary-wine-25, #edc1d2);
+    border-width: 1px 0 0 0;
+    width: 96.51px;
+    height: 0px;
+    position: absolute;
+    left: 0px;
+   top: 166px;
+   }
+
+.frame-25 {
+   display: flex;
+    flex-direction: row;
+    gap: 22px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: calc(50% - 648px);
+   top: 326px;
+   }
+
+.frame-22 {
+   display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-end;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.b-593-e-5138949679-1 {
+   flex-shrink: 0;
+    width: 637px;
+    height: 360px;
+    position: relative;
+   }
+
+.group-11 {
+   flex-shrink: 0;
+    width: 637px;
+    height: 523px;
+    position: static;
+   }
+
+.frame-16 {
+   border-style: solid;
+    border-color: var(--darkgrey, #5b6876);
+    border-width: 1px;
+    padding: 40px 32px 40px 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+    align-items: center;
+    justify-content: center;
+    width: 637px;
+    position: absolute;
+    left: 0px;
+   top: 360px;
+   }
+
+.working-with-ibukun-has-been-exhilarating-her-creative-design-sensibility-and-attention-to-detail-are-unparalleled-ibukun-not-only-transformed-our-ideas-into-visually-stunning-and-user-friendly-products-but-also-brought-a-level-of-innovation-and-fresh-perspective-that-truly-sets-her-apart-we-look-forward-to-many-more-successful-collaborations-in-the-future {
+   color: #ffffff;
+    text-align: left;
+    font: 400 24px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 509px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.group-24 {
+   flex-shrink: 0;
+    width: 509px;
+    height: 55px;
+    position: static;
+   }
+
+.adekemi-borode {
+   color: var(--colors-background-grey-25, #c9cdd2);
+    text-align: left;
+    font: 700 18px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 64px;
+   top: 428px;
+    width: 509px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.ceo-starters {
+   color: var(--colors-background-grey-75, #5e6978);
+    text-align: left;
+    font: 400 16px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 64px;
+   top: 459px;
+    width: 509px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.frame-23 {
+   display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-end;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.group-112 {
+   flex-shrink: 0;
+    width: 637px;
+    height: 487px;
+    position: static;
+   }
+
+.ibukun-is-a-design-genius-her-work-exceeded-our-expectations-and-we-were-blown-away-by-the-creative-solutions-she-provided-her-ability-to-make-our-ideas-come-to-life-in-a-visually-stunning-and-user-friendly-way-is-unparalleled-we-highly-recommend-her-for-any-design-project-she-s-a-game-changer {
+   color: #ffffff;
+    text-align: left;
+    font: 400 24px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 509px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.adedapo-samuel {
+   color: var(--colors-background-grey-25, #c9cdd2);
+    text-align: left;
+    font: 700 18px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 64px;
+   top: 392px;
+    width: 509px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.ceo-design-u {
+   color: var(--colors-background-grey-75, #5e6978);
+    text-align: left;
+    font: 400 16px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 64px;
+   top: 423px;
+    width: 509px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.frame-36 {
+   width: 1440px;
+    height: 422px;
+    position: absolute;
+    left: calc(50% - 720px);
+   top: 12031px;
+    overflow: hidden;
+   }
+
+.frame-40 {
+   background: #070707;
+    width: 1438px;
+    height: 438px;
+    position: absolute;
+    left: calc(50% - 719px);
+   bottom: 0px;
+   }
+
+.group-33 {
+   position: absolute;
+    inset: 0;
+   }
+
+.frame-38 {
+   display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 841px;
+   top: 83px;
+   }
+
+.home {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.about2 {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.work {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.process {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.group-32 {
+   width: 592px;
+    height: 259px;
+    position: static;
+   }
+
+.group-31 {
+   width: 589px;
+    height: 30px;
+    position: static;
+   }
+
+.copyright-2023 {
+   color: var(--colors-background-grey-50, #939ba5);
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 74px;
+   top: 312px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.ibukun-ayomide-baafog-all-rights-reserved {
+   color: var(--colors-background-grey-50, #939ba5);
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 242px;
+   top: 312px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.ellipse-4 {
+   background: var(--darkgrey, #5b6876);
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    left: 226px;
+   top: 323px;
+   }
+
+.logo {
+   display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 71px;
+   top: 83px;
+   }
+
+.baafog-ayo {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'Ultra', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.frame-37 {
+   display: flex;
+    flex-direction: row;
+    gap: 24px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 71px;
+   top: 152px;
+   }
+
+.icon-twitter-square {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.icon-linked-in {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.vector3 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.frame-39 {
+   display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 1061px;
+   top: 83px;
+   }
+
+.store {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.blog {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.reading-list {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.frame-59 {
+   width: 1440px;
+    height: 925px;
+    position: absolute;
+    left: calc(50% - 720px);
+   top: 83px;
+   }
+
+.group-41 {
+   position: absolute;
+    inset: 0;
+   }
+
+.group-39 {
+   width: 665px;
+    height: 685px;
+    position: static;
+   }
+
+.about-me {
+   color: #ffffff;
+    text-align: left;
+    font: 700 55px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 694px;
+   top: 120px;
+    display: flex;
+    flex-direction: column;
+   justify-content: flex-start;
+   
+}
+   
+   
+   .about-me-description {
+      font: 20 22px/150% 'Sen', sans-serif;
+      color: #939BA5;
+      padding-right: 5rem;
+   
+   
+   }
+
+   .about-me-description-cta{
+      color: #C94679;
+      
+   }
+   /* .about-me {
+      color: #ffffff;
+       text-align: left;
+       font: 700 55px/150% 'Sen', sans-serif;
+       position: absolute;
+       left: 694px;
+      top: 120px;
+       display: flex;
+      align-items: center;
+      justify-content: flex-start} */
+
+.group-40 {
+   width: 557px;
+    height: 685px;
+    position: static;
+   }
+
+.rectangle-16 {
+   background: #d9d9d9;
+    width: 125px;
+    height: 163px;
+    position: absolute;
+    left: 81px;
+   top: 120px;
+   }
+
+.rectangle-17 {
+   background: #000000;
+    width: 125px;
+    height: 163px;
+    position: absolute;
+    left: 97px;
+   top: 136px;
+   }
+
+.rectangle-18 {
+   background: #d9d9d9;
+    width: 125px;
+    height: 163px;
+    position: absolute;
+    left: 638px;
+   top: 805px;
+    transform-origin: 0 0;
+    transform: rotate(-180deg) scale(1, 1);
+   }
+
+.rectangle-19 {
+   background: #000000;
+    width: 125px;
+    height: 163px;
+    position: absolute;
+    left: 622px;
+   top: 789px;
+    transform-origin: 0 0;
+    transform: rotate(-180deg) scale(1, 1);
+   }
+
+.group-3 {
+   width: 483px;
+    height: 610px;
+    position: static;
+   }
+
+.rectangle-5 {
+   background: linear-gradient(222.23deg, rgba(217, 217, 217, 0.58) 0%,rgba(124, 124, 124, 0.00) 100%);
+    border-radius: 0px 168px 0px 0px;
+    width: 483px;
+    height: 610px;
+    position: absolute;
+    left: 118px;
+   top: 157px;
+   }
+
+.ms-bufoc-1-114334-1 {
+   border-radius: 0px 168.98px 0px 0px;
+    width: 483px;
+    height: 610.44px;
+    position: absolute;
+    left: 118px;
+   top: 157px;
+   }
+
+.nav-bar {
+   width: 1440px;
+    height: 85px;
+    position: absolute;
+    left: calc(50% - 720px);
+   top: 0px;
+   }
+
+.logo2 {
+   padding: 32px 24px 32px 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 197px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.links {
+   display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    right: 0px;
+   top: 0px;
+   }
+
+.home2 {
+   padding: 32px 24px 0px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.home3 {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'Sen', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.about-me2 {
+   padding: 32px 24px 0px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.about-me3 {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'Sen', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.rectangle-20 {
+   background: var(--colors-primary-wine-100, #b7094c);
+    border-radius: 4px 4px 0px 0px;
+    flex-shrink: 0;
+    width: 94px;
+    height: 4px;
+    position: relative;
+   }
+
+.skills {
+   padding: 32px 24px 32px 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.skills2 {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'Sen', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.portfolio {
+   padding: 32px 24px 32px 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.portfolio2 {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'Sen', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.contact-me {
+   background: var(--colors-primary-wine-100, #b7094c);
+    padding: 32px 24px 32px 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.contact-me2 {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'Sen', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
