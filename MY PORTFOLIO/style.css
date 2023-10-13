@@ -1,4 +1,294 @@
-.fluid-container{
+// Baafog_Ayo
+color: white;
+ font-size: 16px;
+ font-family: Ultra;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Home
+color: white;
+ font-size: 16px;
+ font-family: Sen;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// About Me
+color: white;
+ font-size: 16px;
+ font-family: Sen;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Skills
+color: white;
+ font-size: 16px;
+ font-family: Sen;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Portfolio
+color: white;
+ font-size: 16px;
+ font-family: Sen;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Contact Me
+color: white;
+ font-size: 16px;
+ font-family: Sen;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// I’m Ibukun<br/>Ayomide-Baafog.<br/>A 
+color: white;
+ font-size: 74px;
+ font-family: Sen;
+ font-weight: 700;
+ line-height: 90px;
+ word-wrap: break-word
+---
+// Product Designer<br/>
+color: white;
+ font-size: 74px;
+ font-family: Sen;
+ font-weight: 700;
+ text-decoration: underline;
+ line-height: 90px;
+ word-wrap: break-word
+---
+// based in 
+color: rgba(255, 255, 255, 0.50);
+ font-size: 48px;
+ font-family: Sen;
+ font-weight: 700;
+ line-height: 90px;
+ word-wrap: break-word
+---
+// Accra
+color: #8B8B91;
+ font-size: 48px;
+ font-family: Sen;
+ font-weight: 700;
+ line-height: 90px;
+ word-wrap: break-word
+---
+// , Ghana.
+color: rgba(255, 255, 255, 0.50);
+ font-size: 48px;
+ font-family: Sen;
+ font-weight: 700;
+ line-height: 90px;
+ word-wrap: break-word
+---
+// I am passionate about building products that are enjoyable and elevate users’ experience.
+color: rgba(255, 255, 255, 0.50);
+ font-size: 20px;
+ font-family: Sen;
+ font-weight: 700;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Phylosophy & Value
+color: #181823;
+ font-size: 55px;
+ font-family: Sen;
+ font-weight: 700;
+ line-height: 82.50px;
+ word-wrap: break-word
+---
+// I am passionate about people and products. Helping people by building products that are fun and enjoyable to use.
+color: #5B6876;
+ font-size: 18px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 27px;
+ word-wrap: break-word
+---
+// More about me
+color: #5B6876;
+ font-size: 16px;
+ font-family: Sen;
+ font-weight: 700;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Instagram
+color: #181823;
+ font-size: 55px;
+ font-family: Sen;
+ font-weight: 700;
+ line-height: 82.50px;
+ word-wrap: break-word
+---
+// I’m a strong advocate for a work-life balance and when i’m not working, i like to go to the beach, sight see, travel and meet new people. I would like to connect with you on IG.
+color: #5B6876;
+ font-size: 18px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 27px;
+ word-wrap: break-word
+---
+// Follow me on IG
+color: #5B6876;
+ font-size: 16px;
+ font-family: Sen;
+ font-weight: 700;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Each project was made with the users in mind. Kind check out my work on Behance. Like and comments are welcomed. 
+color: #939BA5;
+ font-size: 18px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 27px;
+ word-wrap: break-word
+---
+// Behance
+color: white;
+ font-size: 55px;
+ font-family: Sen;
+ font-weight: 700;
+ line-height: 82.50px;
+ word-wrap: break-word
+---
+// Follow me on Behance
+color: #EDC1D2;
+ font-size: 16px;
+ font-family: Sen;
+ font-weight: 700;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Let’s get started
+color: white;
+ font-size: 55px;
+ font-family: Sen;
+ font-weight: 700;
+ line-height: 82.50px;
+ word-wrap: break-word
+---
+// Now that you know a lot about me, let me know if you are interested in working with me.
+color: #939BA5;
+ font-size: 18px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 27px;
+ word-wrap: break-word
+---
+// Name
+color: #939BA5;
+ font-size: 16px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Email
+color: #939BA5;
+ font-size: 16px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Message
+color: #939BA5;
+ font-size: 16px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// LET’S GET STARTED
+color: white;
+ font-size: 18px;
+ font-family: Sen;
+ font-weight: 700;
+ line-height: 27px;
+ word-wrap: break-word
+---
+// Home
+color: white;
+ font-size: 20px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// About
+color: white;
+ font-size: 20px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Work
+color: white;
+ font-size: 20px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Process
+color: white;
+ font-size: 20px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Copyright 2023
+color: #939BA5;
+ font-size: 20px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Ibukun Ayomide-Baafog. All rights reserved.
+color: #939BA5;
+ font-size: 20px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Baafog_Ayo
+color: white;
+ font-size: 16px;
+ font-family: Ultra;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Store
+color: white;
+ font-size: 20px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Blog
+color: white;
+ font-size: 20px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Reading List
+color: white;
+ font-size: 20px;
+ font-family: Sen;
+ font-weight: 400;
+ line-height: 30px;
+ word-wrap: break-word
+
+/* .fluid-container{
     background-color: black;
     width: 1440px;
     margin-left: 150px;
@@ -105,7 +395,7 @@ line-height: 90px; /* 121.622% */
    
 }
 #CTA {
-    margin-left: 100px;
+    margin-left: 100px; */
 }
 /* color: rgba(255, 255, 255, 0.50);
 

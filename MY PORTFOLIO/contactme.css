@@ -1,0 +1,510 @@
+.contact, .contact * {
+    box-sizing: border-box;
+    }
+.contact {
+   background: var(--black, #000000);
+    width: 1440px;
+    height: 1233px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.frame-36 {
+   width: 1440px;
+    height: 422px;
+    position: absolute;
+    left: calc(50% - 720px);
+   top: 12031px;
+    overflow: hidden;
+   }
+
+.frame-40 {
+   background: #070707;
+    width: 1438px;
+    height: 425px;
+    position: absolute;
+    left: 0px;
+   bottom: 0px;
+   }
+
+.group-33 {
+   position: absolute;
+    inset: 0;
+   }
+
+.frame-38 {
+   display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 841px;
+   top: 83px;
+   }
+
+.home {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.about {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.work {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.process {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.group-32 {
+   width: 592px;
+    height: 259px;
+    position: static;
+   }
+
+.group-31 {
+   width: 589px;
+    height: 30px;
+    position: static;
+   }
+
+.copyright-2023 {
+   color: var(--colors-background-grey-50, #939ba5);
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 74px;
+   top: 312px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.ibukun-ayomide-baafog-all-rights-reserved {
+   color: var(--colors-background-grey-50, #939ba5);
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 242px;
+   top: 312px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.ellipse-4 {
+   background: var(--darkgrey, #5b6876);
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    left: 226px;
+   top: 323px;
+   }
+
+.logo {
+   display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 71px;
+   top: 83px;
+   }
+
+.baafog-ayo {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'Ultra', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.frame-37 {
+   display: flex;
+    flex-direction: row;
+    gap: 24px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 71px;
+   top: 152px;
+   }
+
+.icon-twitter-square {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.icon-linked-in {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.vector3 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.frame-39 {
+   display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 1061px;
+   top: 83px;
+   }
+
+.store {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.blog {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.reading-list {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px/150% 'Sen', sans-serif;
+    position: relative;
+    width: 196px;
+    height: 48px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.nav-bar {
+   width: 1440px;
+    height: 85px;
+    position: absolute;
+    left: calc(50% - 720px);
+   top: 0px;
+   }
+
+.logo2 {
+   padding: 32px 24px 32px 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 197px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.links {
+   display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    right: 0px;
+   top: 0px;
+   }
+
+.experience {
+   padding: 32px 24px 32px 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.home2 {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'Sen', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.about-me {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'Sen', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.skills {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'Sen', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.work2 {
+   padding: 32px 24px 32px 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.portfolio {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'Sen', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.contact2 {
+   background: var(--colors-primary-wine-100, #b7094c);
+    padding: 32px 24px 32px 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.contact-me {
+   color: #ffffff;
+    text-align: left;
+    font: 400 16px 'Sen', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.frame-35 {
+   display: flex;
+    flex-direction: row;
+    gap: 24px;
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+    height: 723px;
+    position: absolute;
+    left: calc(50% - 720px);
+   top: 85px;
+   }
+
+.group-30 {
+   flex-shrink: 0;
+    width: 1076px;
+    height: 483px;
+    position: static;
+   }
+
+.frame-27 {
+   width: 526px;
+    height: 147px;
+    position: absolute;
+    left: 182px;
+   top: 120px;
+   }
+
+.now-that-you-know-a-lot-about-me-let-me-know-if-you-are-interested-in-working-with-me {
+   color: var(--colors-background-grey-50, #939ba5);
+    text-align: left;
+    font: 400 18px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 93px;
+    width: 526px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.let-s-get-started {
+   color: #ffffff;
+    text-align: left;
+    font: 700 55px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+    width: 526px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.frame-34 {
+   display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 526px;
+    position: absolute;
+    left: 732px;
+   top: 120px;
+   }
+
+.group-26 {
+   flex-shrink: 0;
+    width: 526px;
+    height: 82px;
+    position: static;
+   }
+
+.rectangle-15 {
+   background: var(--level-1, #181823);
+    width: 526px;
+    height: 50px;
+    position: absolute;
+    left: 0px;
+   top: 32px;
+   }
+
+.name {
+   color: var(--colors-background-grey-50, #939ba5);
+    text-align: left;
+    font: 400 16px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+    width: 53px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.group-28 {
+   flex-shrink: 0;
+    width: 526px;
+    height: 82px;
+    position: static;
+   }
+
+.rectangle-152 {
+   background: var(--level-1, #181823);
+    width: 526px;
+    height: 50px;
+    position: absolute;
+    left: 0px;
+   top: 154px;
+   }
+
+.email {
+   color: var(--colors-background-grey-50, #939ba5);
+    text-align: left;
+    font: 400 16px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 122px;
+    width: 67px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.group-29 {
+   flex-shrink: 0;
+    width: 526px;
+    height: 239px;
+    position: static;
+   }
+
+.rectangle-153 {
+   background: var(--level-1, #181823);
+    width: 526px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+   top: 276px;
+   }
+
+.message {
+   color: var(--colors-background-grey-50, #939ba5);
+    text-align: left;
+    font: 400 16px/150% 'Sen', sans-serif;
+    position: absolute;
+    left: 0px;
+   top: 244px;
+    width: 78px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.frame-28 {
+   background: var(--color-gradient-1, linear-gradient(132.43deg, rgba(65, 53, 243, 1.00) 0%,rgba(113, 104, 246, 1.00) 100%));
+    border-style: solid;
+    border-color: var(--iris-100, #5d5fef);
+    border-width: 1px;
+    padding: 12px 16px 12px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 526px;
+    position: absolute;
+    left: 0px;
+   top: 432px;
+   }
+
+.let-s-get-started2 {
+   color: #ffffff;
+    text-align: left;
+    font: 700 18px/150% 'Sen', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
