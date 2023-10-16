@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
+
    
  <div class="home" >
     <div class="nav-bar" >
@@ -56,7 +57,22 @@ Contact Me </a>
                       </span>
                 </div>
                 <div class="i-am-passionate-about-building-products-that-are-enjoyable-and-elevate-users-experience" >
-I am passionate about building products that are enjoyable and elevate users’ experience. </div>
+
+       <!-- Element to contain animated typing -->
+  <span id="element"></span>
+
+  <!-- Load library from the CDN -->
+  <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+
+  <!-- Setup and start animation! -->
+  <script>
+    var typed = new Typed('#element', {
+      strings: ['I am passionate about building products that are enjoyable', '&amp; elevate users’ experience.'],
+      typeSpeed: 50,
+    });
+  </script>
+
+  </div>
           </div>
           <div class="group-3" >
                 <div class="rectangle-5" >
