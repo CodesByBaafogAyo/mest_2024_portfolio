@@ -68,6 +68,10 @@
     position: relative;
    }
 
+   .home2:hover {
+      background-color: #b7094c;
+      color: #fff;
+   }
 .home3 {
    color: #ffffff;
     text-align: left;
@@ -106,6 +110,11 @@
    align-items: center;
    justify-content: flex-start}
 
+   .about-me:hover {
+      background-color: #b7094c;
+      color: #fff;
+   }
+
 .skills {
    padding: 32px 24px 32px 24px;
     display: flex;
@@ -115,6 +124,11 @@
     justify-content: center;
     flex-shrink: 0;
     position: relative;
+   }
+
+   .skills:hover {
+      background-color: #b7094c;
+      color: #fff;
    }
 
 .skills2 {
@@ -135,6 +149,11 @@
     justify-content: center;
     flex-shrink: 0;
     position: relative;
+   }
+
+   .portfolio:hover {
+      background-color: #b7094c;
+      color: #fff;
    }
 
 .portfolio2 {
