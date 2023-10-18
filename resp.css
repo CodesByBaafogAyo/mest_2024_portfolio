@@ -97,6 +97,184 @@
         width: 100%;
        
     }
+
+    .graphics .images img{
+        width: 100%;
+    }
+
+    .behance .images img{
+        width: 100%;
+    }
+
+    .projects .buttons {
+        padding: 20px;
+        width: 40%;
+        margin: 10px 0px;
+        border: 1px solid #5D5FEF;
+        background-color: transparent;
+        color: #fff;
+    }
+
+    .logo button {
+        border: 1px solid #5D5FEF;
+        background-color: transparent;
+        color: #fff;
+        margin: 5px 0 5px 0;
+    }
+    .logo .button .filled {
+        background-color: #5D5FEF; ;
+    }
+    .phy-container{
+        display: flex;
+        flex-direction: column;
+      
+    }
+
+    .testimonial-details .left {
+        width: 100%;
+    }
+
+    .testimonial-details .right {
+        width: 100%;
+        margin: 10px;}
+
+    .work-experience .details {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 40px;
+    }
+
+    .work-experience .details .left, .middle, .right {
+        width: 100%;
+
+
+    }
+    .projects .card p {
+        width: 100%;
+        padding: 10px 32px 20px 20px;
+    }
+
+    .projects .card p {
+       
+        padding: 20px 0 20px 0
+    }
+
+    .projects h1 {
+        font-size: 40px;
+        /* width: 572px; */
+        line-height: 1.5;
+        padding-left: 20px;
+    }
+
+    .philosophy-container{
+        padding: 50px 0 100px 0;
+        width: 100%;
+    }
+
+    .contact-details {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .contact .text p {
+        width: auto;
+    }
+
+    .contact .text h2 {
+        align-self: start;
+        width: auto;
+    }
+    .home-div2 {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .home-div1 {
+        height: auto;
+    }
+
+    .home-div3 {
+        margin-left: 0;
+        padding: 20px 10px 40px 10px;
+        
+    }
+
+    .i-am-passionate-about-building-products-that-are-enjoyable-and-elevate-users-experience {
+        font-size: 16px;
+    }
+
+    .behance .images {
+        padding-left: 0;
+        margin-top: 20px;
+    }
+
+    .navigation {
+        display: flex;
+        padding: 20px 20px;
+        flex-direction: column;
+    }
+
+    .philosophy-container p {
+        margin-bottom: 65px;
+    }
+    
+    .philosophy-image-container > img {
+        margin-inline: auto;
+        width: 100%;
+    }
+
+    .behance {
+    padding-bottom: 50px;
+    }
+
+    img, svg {
+        vertical-align: middle;
+        /* width: 100%; */
+    }
+
+    .behance .text p {
+        width: auto;
+    }
+    .text h2{
+        font-size: 60px;
+        line-height: 1.25;
+    }
+    .text p {
+        font-size: 30px;
+        line-height: 1.25;
+        /* padding: auto; */
+    }
+
+    .contact .text {
+        width: 100%;
+    }
+
+
+    .philosophy-container p {
+        width: auto;
+    }
+
+    .philosophy-image-container {
+        width: 100%;
+    }
+
+
+    .projects{
+        display: flex;
+        flex-direction: column;
+        padding: 0%;
+    }
+
+
+    .projects .card {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .graphics .images{
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 @media (max-width: 575.98px) { 

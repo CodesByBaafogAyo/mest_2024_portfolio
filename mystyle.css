@@ -376,19 +376,26 @@ body {
 
 .projects .card .card-item{
     width: 100%;
+    margin-bottom: 20;
+
     
 }
 
 .projects .card .card-item img{
     width: 100%;
-    height: 400px;
+    height: 500px;
     object-fit: cover;
     margin-bottom: 20px;
 }
 
 .projects .card p{
     width: 100%;
-    /* padding: 40px 32px 40px 32px; */
+    padding: 10px 32px 40px 0px;
+}
+
+.projects .card, .card-item {
+    background-color: #181823;
+    /* padding-left: 5px; */
 }
 
 
@@ -396,6 +403,7 @@ body {
 .projects .buttons{
     padding: 20px;
     width: 40%;
+    margin: 100px 250px;
   
 }
 
@@ -416,7 +424,7 @@ body {
 
 .logo .buttons .filled{
     padding: 12px 16px 12px 16px;
-    background-color: #0084F4;
+    background-color: #5D5FEF;
     color: #ffffff;
     margin-right: 16px;
 }
@@ -426,6 +434,18 @@ body {
         
         margin-right: 12px;
 
+}
+
+.graphics .text p {
+    width:100%;
+}
+
+
+.graphics {
+    padding: 5%;
+    display: flex;
+    flex-direction: column;
+    width: 100% !important;
 }
 .logo img{
     margin: 20px 0;
@@ -459,6 +479,8 @@ body {
     margin-top: 80px;
     display: flex;
     flex-direction: row;
+    margin-left: 0%;
+    gap: 0%;
 }
 
 .graphics img{
@@ -476,6 +498,8 @@ body {
     font-size: 55px;
     margin: 0px;
 }
+
+
 
 .behance .text p{
     font-size: 18px;
